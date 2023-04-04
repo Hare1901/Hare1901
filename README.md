@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Hare1901/Hare1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
