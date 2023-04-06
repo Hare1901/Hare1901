@@ -1,5 +1,8 @@
 # Hi there 👋
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Hare1901/badges/large)
 <!--
 **Hare1901/Hare1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
